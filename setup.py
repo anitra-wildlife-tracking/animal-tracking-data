@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.0.0' 
+VERSION = '1.0.1' 
 DESCRIPTION = 'Animal tracking data source & formatter'
 LONG_DESCRIPTION = 'Python package that sources animal tracking data from the Movebank and Anitra platforms'
 
