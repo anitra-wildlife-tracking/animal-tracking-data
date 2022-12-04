@@ -1,7 +1,7 @@
 from argparse import ArgumentError
-from common.params import Params
-from formatters.csv import CSVFormatter
-from formatters.xlsx import XLSXFormatter
+from ..common.params import Params
+from ..formatters.csv import CSVFormatter
+from ..formatters.xlsx import XLSXFormatter
 from .api.api import AnitraApi
 from datetime import datetime
 
